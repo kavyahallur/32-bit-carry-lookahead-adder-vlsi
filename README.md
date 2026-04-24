@@ -57,10 +57,14 @@ Designed and implemented a 32-bit Carry Lookahead Adder (CLA) using a 250nm CMOS
 
 ---
 
-## Key Learnings
-- High-speed digital circuit design  
-- CMOS layout and optimization  
-- Trade-offs between delay, power, and area  
+This project demonstrates high-speed arithmetic circuit design for performance-critical digital systems such as ALUs and processors.
+The design achieved a delay of ~2.93 ns for the 32-bit CLA with improved propagation using buffering techniques.
+
+## Key Contributions
+- Designed a 32-bit Carry Lookahead Adder using hierarchical 4-bit CLA blocks  
+- Implemented CMOS-based transmission gate logic for efficient design  
+- Integrated SIPO shift register to reduce I/O pin requirements  
+- Optimized delay using buffering and critical path improvements  
 - Hierarchical hardware design  
 
 ---
