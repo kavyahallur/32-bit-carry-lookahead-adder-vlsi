@@ -35,7 +35,8 @@ Designed and implemented a 32-bit Carry Lookahead Adder (CLA) using a 250nm CMOS
 ![Final](final_design.png)
 
 ### Simulation Waveform
-![Waveform](waveform.png)
+![Waveform](waveform1.png)
+![Waveform](waveform2.png)
 
 ---
 
